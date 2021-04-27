@@ -1,4 +1,4 @@
-# A simple example site. GFood as a first deploy to Netlify!
+# A simple example site. Good as a first deploy to Netlify!
 
 With this you can:
 
