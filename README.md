@@ -1,18 +1,15 @@
-# 11ty Scaffold with Serverless
+# A simple example site. GFood as a first deploy to Netlify!
 
-A starting point for an 11ty site. With:
+With this you can:
 
-- Nunjucks template inheritance
-- Sass pipeline with SCSS
-- Responsive breakpoints via mixins
-- Image passthrough without optimisation
-- 11ty data cascade with remote data request
-- Serverles functions pipeline with [Netlify Functions](https://netlify.com/functions)
+- Deploy a site compiled by a site generator
+- Create and configure a git-based CI/CD delivery pipeline
+- Add a development pipeline for your CSS with SCSS
+- Integrate serverless functions backed by AWS Lambda
 
 
+# How?
 
-## 👉 Try out a deploy
+Just click this button 👇 which will to do all of that for you 👆
 
-You can also try cloning this example repo and deploying it to [Netlify](https://www.netlify.com/?utm_source=github&utm_medium=11up-pnh&utm_campaign=devex) automatically by clicking the Deploy Button below.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/11ty-with-serverless&utm_source=github&utm_medium=11up-pnh&utm_campaign=devex)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/hello-netlify&utm_campaign=devex-ph)
